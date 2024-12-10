@@ -1,1 +1,1 @@
-# TrendFusion---e-commerce is a vanilla javascript project.
+# TrendFusion---e-commerce is a vanilla javascript project..
